@@ -3,8 +3,6 @@
 > **文章整理：2026-11-09｜公开页面快照：2026-11-02**  
 > 本文比较公开套餐，不是同环境性能实测。价格、库存、税费、续费与政策都可能变化，付款前请在目标 SKU 的结账页复核。
 
-> **推广披露：**本文含 RackNerd、VPSDime、ProfitServer、CloudCone 的本站推广链接；通过这些链接注册或购买，本站可能获得佣金。GreenCloudVPS、搬瓦工和 DMIT 使用普通官网链接。
-
 ## 先给答案：四种任务，对应四条购买路径
 
 搬瓦工和 DMIT 有明确搜索心智，但它们不是所有海外 VPS 任务的默认答案。若你要练 Linux、运行轻量服务或部署海外任务，先比较下面四条路径；它们替代的是**付款方式、资源组合或部署地区**，不是已经验证的同线路产品。
@@ -21,7 +19,7 @@
 - [查看 RackNerd 年付活动与续费条件](https://my.racknerd.com/aff.php?aff=21833)
 - [比较 VPSDime Linux 套餐](https://vpsdime.com/a/4857/linux-vps)
 - [核对 ProfitServer 地区、套餐与付款周期](https://profitserver.net/?partner_id=3430198)
-- [进入 CloudCone 推广入口，核对 SSD VPS 年付方案](https://app.cloudcone.com/?ref=14824)
+- [进入 CloudCone 官网，核对 SSD VPS 年付方案](https://app.cloudcone.com/?ref=14824)
 
 **中国大陆或亚太访问路径是硬条件？** 不要按品牌名或最低数字下单，直接看后文的[线路例外](#线路是硬条件时搬瓦工和-dmit-才回到前排)。
 
@@ -142,13 +140,13 @@ CloudCone 的 **SSD VPS 与 SC2 是不同产品线**。SSD VPS 页面会引导�
 
 **购买判断：**若一年使用周期明确，先核对 SSD VPS 1 的实时库存、首期总额、目标机房、续费、退款及备份；任何一项不清楚，都不要只按换算月均价下单。
 
-[进入 CloudCone 推广入口，核对 SSD VPS 年付方案](https://app.cloudcone.com/?ref=14824)
+[进入 CloudCone 官网，核对 SSD VPS 年付方案](https://app.cloudcone.com/?ref=14824)
 
 ## 补充候选：GreenCloudVPS 适合会逐 SKU 挑库存的人
 
 GreenCloudVPS 可以作为补充，而不是本文的并列主成交路径。它适合愿意按**具体库存**核对地区、CPU、内存、存储、流量和销售条款的用户；活动目录出现过某个配置，不代表此刻仍有货，也不能把一个 SKU 的网络说明外推到全品牌。
 
-本文没有把未复核的活动价格写成统一成交价，也不声称它一定比四条主路径更省。如果四家主路径都不匹配，而你具备逐项核对能力，再查看 [GreenCloudVPS 普通官网目录](https://greencloudvps.com/)（非本站推广链接）。
+本文没有把未复核的活动价格写成统一成交价，也不声称它一定比四条主路径更省。如果四家主路径都不匹配，而你具备逐项核对能力，再查看 [GreenCloudVPS 普通官网目录](https://greencloudvps.com/)（普通官网链接）。
 
 ## 线路是硬条件时，搬瓦工和 DMIT 才回到前排
 
@@ -199,7 +197,7 @@ DMIT 的公开页本身就要求按 `LOCATION`、`NETWORK SERIES` 与 `HARDWARE 
 
 把 `$28` 当年度首期总额，而不是把 `$2.33/MO` 当月付；下单前确认 SSD VPS 本身的功能，不把 SC2 能力外推过来。
 
-[进入 CloudCone 推广入口，核对 SSD VPS 年付方案](https://app.cloudcone.com/?ref=14824)
+[进入 CloudCone 官网，核对 SSD VPS 年付方案](https://app.cloudcone.com/?ref=14824)
 
 ## 资料边界与更新记录
 
